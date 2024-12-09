@@ -25,7 +25,9 @@ catboost==1.2.7
 唯一需要注意的是在演算法1跟演算法2中我們需要給定訓練資料 (Training data) 以及測試資料 (Testing data)的檔案路徑以及最後產生預測值之後要存放的位置 :
 
 url_training_data = r"/content/drive/MyDrive/Colab Notebooks/Data science competition/T-brain 2024 Sun light Power predition/Training data"
+
 url_testing_data = '/content/drive/MyDrive/Colab Notebooks/Data science competition/T-brain 2024 Sun light Power predition/Testing data'
+
 url_output = '/content/drive/MyDrive/Colab Notebooks/Data science competition/T-brain 2024 Sun light Power predition/Testing data/'
 
 讀者可以根據自己實際的情形修改檔案的位置，而我們的 training data 跟 testing data 都可以在該 github 的 repository 中取得。
