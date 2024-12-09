@@ -3,11 +3,8 @@ This repository is used to store the related files and code used for this compet
 
 # Part 1 環境設定
 python==3.10.12
-
 torch==2.5.1
-
 numpy==1.26.4
-
 pandas==2.2.2
 
 matplotlib==3.8.0
