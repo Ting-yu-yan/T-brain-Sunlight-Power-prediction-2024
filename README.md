@@ -1,4 +1,4 @@
-# T-brain-Sunlight-Power-prediction-2024
+![image](https://github.com/user-attachments/assets/05164b2d-e690-4efb-aed5-eb869efd7809)# T-brain-Sunlight-Power-prediction-2024
 This repository is used to store the related files and code used for this competition 
 
 ## 環境設定
@@ -29,3 +29,10 @@ url_testing_data = '/content/drive/MyDrive/Colab Notebooks/Data science competit
 url_output = '/content/drive/MyDrive/Colab Notebooks/Data science competition/T-brain 2024 Sun light Power predition/Testing data/'
 
 讀者可以根據自己實際的情形修改檔案的位置，而我們的 training data 跟 testing data 都可以在該 github 的 repository 中取得。
+
+## Score table
+
+| 演算法       | 描述                          | Private leader board   |
+|------------|-------------------------------|---------|
+| 演算法1     | 一次考量所有 Site 的資料，並且建立 LSTM + XGBoost + CatBoost 的預測模型    | 638932.89  |
+| 演算法2    | 一次只考量一個 Site 的資料，並且建立 LSTM + XGBoost + CatBoost 的預測模型     |  1066292.98 |
