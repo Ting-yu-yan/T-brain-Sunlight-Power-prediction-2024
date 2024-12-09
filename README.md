@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/05164b2d-e690-4efb-aed5-eb869efd7809)# T-brain-Sunlight-Power-prediction-2024
+# T-brain-Sunlight-Power-prediction-2024
 This repository is used to store the related files and code used for this competition 
 
 ## 環境設定
